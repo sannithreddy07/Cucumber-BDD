@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="30.115" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="HRMS" name="Verify Title" time="14.123">
+<system-out><![CDATA[
+Given Open Application......................................................passed
+Then Close Application......................................................passed
+When Verify Title...........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="HRMS" name="LoginLogout" time="15.662">
+<system-out><![CDATA[
+Given Open Application......................................................passed
+Then Close Application......................................................passed
+When Login into application.................................................passed
+When Logout from application................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
